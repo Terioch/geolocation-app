@@ -6,4 +6,4 @@ built-in geolocation API.
 
 ## Technologies Used
 
-Javascript geolocation API, Node, CSS, REST, NeDB
+Javascript geolocation API, Node, CSS, REST and NeDB
